@@ -101,4 +101,4 @@ public class Var8 {
 
 # 변수 명명 규칙(관례)
 - camel case: class-big, and so on-small
-
+- 상수는 대문자

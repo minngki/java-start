@@ -1,4 +1,4 @@
-package cond;
+package src.cond;
 
 public class If3 {
 

@@ -1,4 +1,4 @@
-package cond.ex;
+package src.cond.ex;
 
 public class ScoreEx {
     public static void main(String[] args) {

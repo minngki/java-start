@@ -5,22 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d9896de-6b8e-4187-976c-6a90047ce7b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/description/section03_연산자.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/description/section04_조건문.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/description/section05_반복문.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/description/section06_스코프.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/description/section2/lecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/description/section2/lecture.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/CommentJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/CommentJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/src/HelloJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/src/HelloJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Var1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Var5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Var6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Var7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/Var8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Var8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variable/ex/VarEx1Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/ex/VarEx1Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description/section01.md" beforeDir="false" afterPath="$PROJECT_DIR$/description/section01_Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description/section02.md" beforeDir="false" afterPath="$PROJECT_DIR$/description/section02_변수.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/If3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/Switch4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/cond/ex/ScoreEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/description/section1/lecture.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/description/section2/lecture.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/While2_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/While2_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/ex/OperationEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/ex/OperationEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/operator/ex/OperationEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/Var4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/ex/VarEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/ex/VarEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/variable/ex/VarEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/If3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cond/If3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/Switch4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cond/Switch4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cond/ex/ScoreEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cond/ex/ScoreEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/While2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop/While2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/ex/OperationEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/ex/OperationEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator/ex/OperationEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +73,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HelloJavaTest.executor": "Run",
+    "Application.OperationEx2.executor": "Run",
+    "Application.OperationEx3.executor": "Run",
+    "Application.Switch4.executor": "Run",
     "Application.Var2.executor": "Run",
     "Application.Var7.executor": "Run",
     "Application.VarEx1Question.executor": "Run",
     "Application.VarT1.executor": "Run",
+    "Application.While2_1.executor": "Run",
+    "Application.While2_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -83,21 +103,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/description" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.VarEx1Question">
-    <configuration name="HelloJavaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloJavaTest" />
-      <module name="java-start" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Var2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable.Var2" />
+  <component name="RunManager" selected="Application.While2_3">
+    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.operator.ex.OperationEx2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variable.*" />
+          <option name="PATTERN" value="src.operator.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Var7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.variable.Var7" />
+    <configuration name="OperationEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.variable.*" />
+          <option name="PATTERN" value="operator.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarEx1Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.variable.ex.VarEx1Question" />
+    <configuration name="Switch4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.cond.Switch4" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.variable.ex.*" />
+          <option name="PATTERN" value="src.cond.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +147,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarT1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.variable2.VarT1" />
+    <configuration name="While2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.While2_1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.variable2.*" />
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="While2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.loop.While2_3" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VarEx1Question" />
-        <item itemvalue="Application.Var7" />
-        <item itemvalue="Application.Var2" />
-        <item itemvalue="Application.VarT1" />
-        <item itemvalue="Application.HelloJavaTest" />
+        <item itemvalue="Application.While2_3" />
+        <item itemvalue="Application.While2_1" />
+        <item itemvalue="Application.Switch4" />
+        <item itemvalue="Application.OperationEx3" />
+        <item itemvalue="Application.OperationEx2" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +204,7 @@
       <workItem from="1721032432015" duration="4376000" />
       <workItem from="1721091800363" duration="596000" />
       <workItem from="1721100097365" duration="5090000" />
-      <workItem from="1721121736093" duration="3294000" />
+      <workItem from="1721121736093" duration="8031000" />
     </task>
     <servers />
   </component>
