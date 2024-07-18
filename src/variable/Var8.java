@@ -1,4 +1,4 @@
-package variable;
+package src.variable;
 
 public class Var8 {
 
