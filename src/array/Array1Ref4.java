@@ -1,4 +1,4 @@
-package array;
+package src.array;
 
 public class Array1Ref4 {
 

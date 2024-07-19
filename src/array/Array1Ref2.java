@@ -1,4 +1,4 @@
-package array;
+package src.array;
 
 public class Array1Ref2 {
 
@@ -15,7 +15,7 @@ public class Array1Ref2 {
 
         //변수 값 사용
         for (int i = 0; i < students.length; i++) {
-            System.out.println("학생" + (i + 1) + " 점수: " + students[i]);
+            System.out.println("학생" + (i + 1) + " 점수: " + students[i]); // 괄호 안 쳐주면 문자열로 처리됨
         }
     }
 }

@@ -1,4 +1,4 @@
-package casting;
+package src.casting;
 
 public class Casting1 {
 
