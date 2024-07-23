@@ -41,6 +41,11 @@ public class Var5 {
     }
 }
 ```
+# 상수
+```java
+final int score = 100;
+score = 200; // 해당 줄에서 오류 발생
+```
 
 # 변수 타입
 
@@ -97,7 +102,20 @@ public class Var8 {
 - 메모리 자체를 많이 사용하는 것이기 때문에 사용성에 맞도록 선하는 것이 맞다.
 - `double`: 실수는 대부분 double을 사용한다. `float`은 위험하다.
 - `String`: 문자 하나든 문자열이든 모두 String 으로 큰 따옴표를 사용하는 것이 좋다.
- 
+
+# 변수 타입 (문자, 문자열)
+```java
+char ch = 'a';
+char ch = 'ab'; // 에러
+
+String s = "ABC"; // String: class, 연속된 여러문자
+String s2 = new String("ABC") // 거의 사용하지 않음
+
+String s = ""; // 빈 문자열
+char ch = ''; // 에러
+```
+- 문자열 + any type: 문자열
+
 
 # 변수 명명 규칙(관례)
 - camel case: class-big, and so on-small

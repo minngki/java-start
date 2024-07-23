@@ -5,30 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d9896de-6b8e-4187-976c-6a90047ce7b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/description/section06_스코프_형변환.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description/section08_배열.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/description/section06_스코프.md" beforeDir="false" afterPath="$PROJECT_DIR$/description/section07_스캐너.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/casting/Casting1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/casting/Casting3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/casting/Casting4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/description/section05_반복문.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/description/section05_반복문.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/scanner/Scanner1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/scanner/Scanner2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/scanner/Scanner3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/scanner/ScannerWhile1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Array1Ref1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Array1Ref1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Array1Ref2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Array1Ref2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Array1Ref3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Array1Ref3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Array1Ref4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Array1Ref4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ex/ProductAdminEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ex/ProductAdminEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting/Casting1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/casting/Casting1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting/Casting3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/casting/Casting3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting/Casting4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/casting/Casting4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/Scanner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/Scanner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/Scanner2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/Scanner3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/Scanner3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/ScannerWhile1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description/section01_Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/section01_Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description/section02_변수.md" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/section02_변수.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description/section03_연산자.md" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/section03_연산자.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description/section04_조건문.md" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/section04_조건문.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description/section05_반복문.md" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/section05_반복문.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description/section06_스코프_형변환.md" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/section06_스코프_형변환.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description/section07_스캐너.md" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/section07_스캐너.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/description/section08_배열.md" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/section08_배열.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,44 +50,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array1Ref1.executor": "Run",
-    "Application.HelloJavaTest.executor": "Run",
-    "Application.OperationEx2.executor": "Run",
-    "Application.OperationEx3.executor": "Run",
-    "Application.ProductAdminEx.executor": "Run",
-    "Application.Scanner2.executor": "Run",
-    "Application.Scanner3.executor": "Run",
-    "Application.Switch4.executor": "Run",
-    "Application.Var2.executor": "Run",
-    "Application.Var7.executor": "Run",
-    "Application.VarEx1Question.executor": "Run",
-    "Application.VarT1.executor": "Run",
-    "Application.While2_1.executor": "Run",
-    "Application.While2_3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/iris/study/java-start",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.language",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array1Ref1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloJavaTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductAdminEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Var2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Var7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarEx1Question.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarT1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While2_3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/iris/study/java-start&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/description" />
     </key>
   </component>
@@ -201,7 +189,8 @@
       <workItem from="1721032432015" duration="4376000" />
       <workItem from="1721091800363" duration="596000" />
       <workItem from="1721100097365" duration="5090000" />
-      <workItem from="1721121736093" duration="18955000" />
+      <workItem from="1721121736093" duration="30026000" />
+      <workItem from="1721723017000" duration="965000" />
     </task>
     <servers />
   </component>
