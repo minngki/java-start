@@ -11,7 +11,7 @@ class Ex7_2 {
     }
 }
 
-class Parent { int x = 10; /* super.x */}
+class Parent { int x = 10; /* super.x */ }
 
 class Child extends Parent {
     int x = 20; // this.x
