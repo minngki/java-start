@@ -52,3 +52,5 @@ class Ex9_2 {
 
 
 # 5. Object클래스의 메서드 - `toString()`
+
+# 6. `toString()`의 오버라이딩
